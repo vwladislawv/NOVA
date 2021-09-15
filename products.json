@@ -1,3 +1,32 @@
 {
-	"basic_content" : "basic_content2"
+	"product": [
+		{
+			"line_number": "51242",
+			"product_name": "Taverna de masa",
+			"price": "200",
+			"product_description": "bla bla bla",
+			"camp_nr": "9"
+		},
+		{
+			"line_number": "51242",
+			"product_name": "Taverna de masa",
+			"price": "200",
+			"product_description": "bla bla bla",
+			"camp_nr": "9"
+		},
+		{
+			"line_number": "51242",
+			"product_name": "Taverna de masa",
+			"price": "200",
+			"product_description": "bla bla bla",
+			"camp_nr": "9"
+		},
+		{
+			"line_number": "51242",
+			"product_name": "Taverna de masa",
+			"price": "200",
+			"product_description": "bla bla bla",
+			"camp_nr": "9"
+		},
+	]
 }
