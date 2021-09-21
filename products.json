@@ -1,32 +1,137 @@
 {
 	"product": [
 		{
-			"line_number": "50054",
-			"product_name": "Taverna de masa",
-			"price": 200,
-			"product_description": "bla bla bla 0",
-			"camp_nr": 9
+			"LN": "00588",
+			"Denumire (RO)": "Suport pentru prezentarea parfumurilor",
+			"Denumire (RU)": "Органайзер для образцов духов",
+			"Detalii (RO)": "100% poliester, 10 cm x 13 cm",
+			"Preț standard": 115
 		},
 		{
-			"line_number": "50336",
-			"product_name": "ou",
-			"price": 200,
-			"product_description": "bla bla bla 1",
-			"camp_nr": 9
+			"LN": "00992",
+			"Denumire (RO)": "Cartonașe pentru testarea parfumurilor",
+			"Denumire (RU)": "Блоттеры для духов",
+			"Detalii (RO)": "hârtie; mărime cărticică 14 cm 5 cm; mărime cartonaș  14 cm x 1 cm; 50 de cartonașe, 5 cartonașe pe pagină, 10 pagini în total",
+			"Preț standard": 45
 		},
 		{
-			"line_number": "50450",
-			"product_name": "pantaloni",
-			"price": 200,
-			"product_description": "bla bla bla 2",
-			"camp_nr": 9
+			"LN": "00414",
+			"Denumire (RO)": "Șablon mărimi inele",
+			"Denumire (RU)": "Шаблон с размерами колец",
+			"Detalii (RO)": "plastic, metal; lungime lanț 16 cm",
+			"Preț standard": 40
 		},
 		{
-			"line_number": "50450",
-			"product_name": "lustra",
-			"price": 200,
-			"product_description": "bla bla bla 3",
-			"camp_nr": 9
+			"LN": "01081",
+			"Denumire (RO)": "Organizator pentru mostre de ruj",
+			"Denumire (RU)": "Органайзер для образцов ",
+			"Detalii (RO)": "8 cm x 4.5 cm x 6.5 cm; plastic; pentru 30 de mostre de ruj",
+			"Preț standard": 100
+		},
+		{
+			"LN": "00562",
+			"Denumire (RO)": "Broșă cu logo Avon",
+			"Denumire (RU)": "Броша с логотипом Avon",
+			"Detalii (RO)": "zinc, plastic, alamă; înălțime 2.7 cm x lungime 2.9 cm",
+			"Preț standard": 75
+		},
+		{
+			"LN": "00505",
+			"Denumire (RO)": "Breloc cu logo Avon",
+			"Denumire (RU)": "Брелок с логотипом Avon",
+			"Detalii (RO)": "diametru inel 2.8 cm; lungime completă a brelocului: 10.2 cm; lungime inițială 3.4 cm x lățime 2.8 cm; zinc, alamă, oțel, placat cu argint",
+			"Preț standard": 135
+		},
+		{
+			"LN": "00513",
+			"Denumire (RO)": "Umbrelă cu logo Avon",
+			"Denumire (RU)": "Зонт с логотипом ",
+			"Detalii (RO)": "închisă: lungime 23.5 cm x diametru 5 cm; deschisă: diametru 89 cm; 100% poliester reciclat",
+			"Preț standard": 225
+		},
+		{
+			"LN": "00448",
+			"Denumire (RO)": "Geantă Mini",
+			"Denumire (RU)": "Сумка Mini",
+			"Detalii (RO)": "100% PVC; lungime curea 70 cm - 133 cm; 24 cm x 17 cm",
+			"Preț standard": 215
+		},
+		{
+			"LN": "01040",
+			"Denumire (RO)": "Geantă Midi",
+			"Denumire (RU)": "Сумка Midi",
+			"Detalii (RO)": "PVC; lungime curea 70 cm - 132 cm; 27 cm x 10 cm x 24 cm",
+			"Preț standard": 300
+		},
+		{
+			"LN": "00174",
+			"Denumire (RO)": "Geantă tip poștaș",
+			"Denumire (RU)": "Сумка через плечо",
+			"Detalii (RO)": "PVC; 30 cm x 5 cm x 33 cm; lungime curea 73 cm - 140 cm",
+			"Preț standard": 425
+		},
+		{
+			"LN": "01057",
+			"Denumire (RO)": "Geantă cu fermoar superior",
+			"Denumire (RU)": "Сумка с молнией",
+			"Detalii (RO)": "PVC; 44 cm x 12 cm x 30 cm; distanță mânere 25 cm; lățime mânere 2 cm",
+			"Preț standard": 390
+		},
+		{
+			"LN": "00463",
+			"Denumire (RO)": "Sticlă pentru apă",
+			"Denumire (RU)": "Бутылка для воды",
+			"Detalii (RO)": "700 ml, SAN, oțel inoxidabil; 22.3 cm x 7 cm",
+			"Preț standard": 115
+		},
+		{
+			"LN": "22152",
+			"Denumire (RO)": "Cană de călătorie",
+			"Denumire (RU)": "Портативная кружка",
+			"Detalii (RO)": "500 ml; polipropilenă, silicon; diametru capac 9.8 cm, diametrul superior al cănii 8.8 cm; diametrul bazei 6.4 cm; înălțime totală a cănii cu capac 18 cm",
+			"Preț standard": 125
+		},
+		{
+			"LN": "30643",
+			"Denumire (RO)": "Cană de călătorie",
+			"Denumire (RU)": "Портативная кружка",
+			"Detalii (RO)": "500 ml; polipropilenă, silicon; diametru capac 9.8 cm, diametrul superior al cănii 8.8 cm; diametrul bazei 6.4 cm; înălțime totală a cănii cu capac 18 cm",
+			"Preț standard": 125
+		},
+		{
+			"LN": "00471",
+			"Denumire (RO)": "Organizator pentru geantă",
+			"Denumire (RU)": "Органайзер для сумок",
+			"Detalii (RO)": "100% poliester; lungime 28 cm x lățime 9 cm x înălțime 18 cm; distanță mânere 9 cm",
+			"Preț standard": 250
+		},
+		{
+			"LN": "00158",
+			"Denumire (RO)": "Geantă pentru cosmetice",
+			"Denumire (RU)": "Косметичка",
+			"Detalii (RO)": "28 cm x 21 cm; 100% poliester",
+			"Preț standard": 150
+		},
+		{
+			"LN": "00695",
+			"Denumire (RO)": "Traversă de masă",
+			"Denumire (RU)": "Скатерть-раннер для стола",
+			"Detalii (RO)": "100% poliester; 200 cm x 33 cm",
+			"Preț standard": 200
+		},
+		{
+			"LN": "00760",
+			"Denumire (RO)": "Agendă",
+			"Denumire (RU)": "Ежедневник",
+			"Detalii (RO)": "hârtie, EVA; 21 cm x 14.8 cm; 60 de coli, 120 de pagini",
+			"Preț standard": 135
+		},
+		{
+			"LN": "00331",
+			"Denumire (RO)": "Pix Avon ",
+			"Denumire (RU)": "Ручка",
+			"Detalii (RO)": "cerneală neagră, corp din ABS cu clemă metalică, lungime 13.5 cm",
+			"Preț standard": 80
 		}
 	]
 }
