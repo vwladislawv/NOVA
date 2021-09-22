@@ -132,6 +132,12 @@
         "Denumire_ru": "Ручка",
         "Detalii_ro": "cerneală neagră, corp din ABS cu clemă metalică, lungime 13.5 cm",
         "Pret_standart": 80
+    },
+    {
+        "LN": "00331",
+        "Denumire_ro": "Igor",
+        "Detalii_ro": "se uimeste",
+        "Pret_standart": 999
     }
 ]
 }
